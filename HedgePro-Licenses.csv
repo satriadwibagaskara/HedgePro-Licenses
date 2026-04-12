@@ -1,10 +1,10 @@
 user_id,name,username,account_id,expired,is_active,Created
 1,Satria Dwi Bagaskara,satriadwib,433348334,12/12/2090,active,7/10/2025
 1,Satria Dwi Bagaskara,satriadwib,4536938,12/12/2090,active,8/10/2025
-,vay,satriadwib,433419505,12/12/2090,inactive,4/4/2026
-,Imam,satriadwib,159937228,12/12/2090,inactive,7/4/2026
-,Indra,satriadwib,463255212,12/12/2090,inactive,8/4/2026
-,Jerico,satriadwib,159975106,12/12/2090,inactive,8/4/2026
+,vay,satriadwib,433419505,12/12/2090,active,4/4/2026
+,Imam,satriadwib,159937228,12/12/2090,active,7/4/2026
+,Indra,satriadwib,463255212,12/12/2090,active,8/4/2026
+,Jerico,satriadwib,159975106,12/12/2090,active,8/4/2026
 ,Agung W,satriadwib,183916911,12/12/2090,active,10/3/2026
 ,Agung W,satriadwib,245950123,12/12/2090,active,10/3/2026
 ,Jerico,satriadwib,159975106,12/12/2090,active,1/4/2026
