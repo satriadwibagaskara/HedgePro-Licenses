@@ -106,12 +106,19 @@ user_id,name,username,account_id,expired,is_active,Created
 263377987,SH,satriadwib,263377987,12/12/2090,active,9/4/2026
 81290616760,Ainnur,satriadwib,159981652,12/12/2090,active,9/4/2026
 ,M Bagir Demo,@Mofx188,1513097668,12/12/2090,active,9/4/2026
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> 9e99f1dc91745e83f8a966a6835c64adb56b0a65
 81393167575,Rian Permana,@riannn7,257382064,12/12/2090,active,13/04/2026
 81393167575,Rian Permana,@riannn7,257380333,12/12/2090,active,13/04/2026
 81393167575,Steven Cahyadi,1 Bulan,257384124,5/15/2026,active,15/04/2026
 81393167575,Steven Cahyadi,1 Bulan,183974457,5/15/2026,active,15/04/2026
 81393167575,Template,Ryan Oscar,183973524,12/12/2090,active,15/04/2026
+<<<<<<< HEAD
+=======
+81393167575,Template,Ryan Oscar,263391610,12/12/2090,active,15/04/2026
+>>>>>>> 9e99f1dc91745e83f8a966a6835c64adb56b0a65
 81393167575,Eko Sudrajat,@kosud2025,415274154,12/12/2090,active,15/04/2026
 81393167575,Hasom Hanafie ,1 Bulan,250612779,12/12/2090,active,15/04/2026
 81393167575,Farma Hilal Hamdi,Farmahilalhamdi,263390086,12/12/2090,active,15/04/2026
@@ -129,6 +136,7 @@ user_id,name,username,account_id,expired,is_active,Created
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,263391095,31/12/2090,active,16/04/2026 14:11:13
 81393167575,Aji,Aji,263391153,31/12/2090,active,16/04/2026 14:11:13
 81393167575,Jonson Situmorang ,Demo Jonson,463303402,1/6/2026,active,16/04/2026 14:11:13
+<<<<<<< HEAD
 =======
 081393167575,Rian Permana,@riannn7,257382064,12/12/2090,active,13/04/2026
 081393167575,Rian Permana,@riannn7,257380333,12/12/2090,active,13/04/2026
@@ -149,3 +157,8 @@ user_id,name,username,account_id,expired,is_active,Created
 081393167575,Joshua Husada,@Xenius2771,263360906,12/12/2090,active,15/04/2026
 081393167575,Joshua Husada,@Xenius2771,159935337,12/12/2090,active,15/04/2026
 >>>>>>> Stashed changes
+=======
+81393167575,valencia,valencia,27029179,12/12/2090,active,15/04/2026
+81393167575,valencia,valencia,27485668,12/12/2090,active,15/04/2026
+81393167575,valencia,valencia,27485672,12/12/2090,active,15/04/2026
+>>>>>>> 9e99f1dc91745e83f8a966a6835c64adb56b0a65
