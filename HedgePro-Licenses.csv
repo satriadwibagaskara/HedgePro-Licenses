@@ -44,11 +44,12 @@ user_id,name,username,account_id,expired,is_active,Created
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,263392102,12/12/2090,active,17/04/2026
 ,Fauzi,tradingcompetition,159979061,25/4/2026,active,13/04/2026
 ,Fauzi,tradingcompetition,257379952,25/4/2026,active,13/04/2026
-81393167575,Ferdi,Ferdy,263389252,12/12/2090,active,13/04/2026
 81938369590,Filbert 9 April 2026,satriadwib,257376120,12/12/2090,active,9/4/2026
 81938369590,Filbert 9 April 2026,satriadwib,159889969,12/12/2090,active,13/04/2026
 81938369590,Filbert 9 April 2026,satriadwib,413638294,12/12/2090,active,13/04/2026
-,Fredy Palayukan,satriadwib,257376722,12/12/2090,active,9/4/2026
+081347071427,Fredy Palayukan IB,satriadwib,257376722,12/12/2090,active,9/4/2026
+081347071427,Fredy Palayukan IB,satriadwib,263389252,12/12/2090,active,13/4/2026
+081347071427,Fredy Palayukan IB,satriadwib,183978163,12/12/2090,active,18/4/2026
 087770652265,"Hasim Hanafie ",1 Bulan,21878903,15/5/2026,active,15/04/2026
 087770652265,Hasim Hanafie,1 Bulan,250612779,15/5/2026,active,15/04/2026
 ,Husny Thamrin,satriadwib,1051045240,12/12/2090,active,9/4/2026
@@ -61,6 +62,11 @@ user_id,name,username,account_id,expired,is_active,Created
 087851712906,Jerico,@Jerico_sa,183966410,12/12/2090,active,9/4/2026
 087851712906,Jerico,@Jerico_sa,257375767,12/12/2090,active,9/4/2026
 087851712906,Jerico,@Jerico_sa,263385372,12/12/2090,active,9/4/2026
+087851712906,Jerico,@Jerico_sa,257387809,12/12/2090,active,18/4/2026
+087851712906,Jerico,@Jerico_sa,159984185,12/12/2090,active,18/4/2026
+087851712906,Jerico,@Jerico_sa,183978060,12/12/2090,active,18/4/2026
+087851712906,Jerico,@Jerico_sa,263392920,12/12/2090,active,18/4/2026
+087851712906,Jerico,@Jerico_sa,263392921,12/12/2090,active,18/4/2026
 81393167575,"Jonson Situmorang ",tradingcompetition,463303402,1/6/2026,active,16/04/2026
 ,"Jonson Situmorang ",tradingcompetition,257381003,25/4/2026,active,12/04/2026
 081393167575,Joshua Husada,@Xenius2771,27483519,12/12/2090,active,15/04/2026
