@@ -3,9 +3,9 @@ user_id,name,username,account_id,expired,is_active,Created
 081717700010,Aa Sae,@AaSae10,183813608,12/12/2090,active,13/04/2026
 081717700010,Aa Sae,@AaSae10,433011322,12/12/2090,active,2/4/2026
 081717700010,Aa Sae,@AaSae10,183966442,12/12/2090,active,2/4/2026
-,Afrilian Fauzi Ahmad,tradingcompetition,159979057,25/4/2026,active,12/04/2026
-,Agung W,satriadwib,183916911,12/12/2090,active,10/3/2026
-,Agung W,satriadwib,245950123,12/12/2090,active,10/3/2026
+DUMMY001,Afrilian Fauzi Ahmad,tradingcompetition,159979057,25/4/2026,active,12/04/2026
+DUMMY002,Agung W,satriadwib,183916911,12/12/2090,active,10/3/2026
+DUMMY002,Agung W,satriadwib,245950123,12/12/2090,active,10/3/2026
 81290616760,Ainnur,satriadwib,159981652,12/12/2090,active,9/4/2026
 81393167575,Aji,Aji,183973139,12/12/2090,active,13/04/2026
 81393167575,Aji,Aji,257382704,12/12/2090,active,13/04/2026
@@ -45,8 +45,8 @@ user_id,name,username,account_id,expired,is_active,Created
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,257390063,12/12/2090,active,17/04/2026
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,183980317,12/12/2090,active,17/04/2026
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,263394563,12/12/2090,active,17/04/2026
-,Fauzi,tradingcompetition,159979061,25/4/2026,active,13/04/2026
-,Fauzi,tradingcompetition,257379952,25/4/2026,active,13/04/2026
+DUMMY003,Fauzi,tradingcompetition,159979061,25/4/2026,active,13/04/2026
+DUMMY003,Fauzi,tradingcompetition,257379952,25/4/2026,active,13/04/2026
 81938369590,Filbert 9 April 2026,satriadwib,257376120,12/12/2090,active,9/4/2026
 81938369590,Filbert 9 April 2026,satriadwib,159889969,12/12/2090,active,13/04/2026
 81938369590,Filbert Demo,satriadwib,413638294,12/12/2090,active,13/04/2026
@@ -56,8 +56,8 @@ user_id,name,username,account_id,expired,is_active,Created
 081347071427,Fredy Palayukan IB,satriadwib,183978163,12/12/2090,active,18/4/2026
 087770652265,"Hasim Hanafie ",1 Bulan,21878903,15/5/2026,active,15/04/2026
 087770652265,Hasim Hanafie,1 Bulan,250612779,15/5/2026,active,15/04/2026
-,Husny Thamrin,satriadwib,1051045240,12/12/2090,active,9/4/2026
-,Imam,satriadwib,159937228,12/12/2090,active,7/4/2026
+DUMMY004,Husny Thamrin,satriadwib,1051045240,12/12/2090,active,9/4/2026
+DUMMY005,Imam,satriadwib,159937228,12/12/2090,active,7/4/2026
 085156346768,Indra Wahyudi,@ndrwhyd,263100916,12/12/2090,active,12/04/2026
 085156346768,Indra Wahyudi,@ndrwhyd,263100913,12/12/2090,active,12/04/2026
 085156346768,Indra Wahyudi,@ndrwhyd,159568158,12/12/2090,active,12/04/2026
@@ -73,8 +73,8 @@ user_id,name,username,account_id,expired,is_active,Created
 087851712906,Jerico,@Jerico_sa,263392920,12/12/2090,active,18/4/2026
 087851712906,Jerico,@Jerico_sa,263392921,12/12/2090,active,18/4/2026
 81393167575,"Jonson Situmorang ",tradingcompetition,463303402,1/6/2026,active,16/04/2026
-,"Jonson Situmorang ",tradingcompetition,257381003,25/4/2026,active,12/04/2026
-,"Jonson Situmorang ",tradingcompetition,183977485,25/4/2026,active,
+DUMMY006,"Jonson Situmorang ",tradingcompetition,257381003,25/4/2026,active,12/04/2026
+DUMMY006,"Jonson Situmorang ",tradingcompetition,183977485,25/4/2026,active,DUMMY_DATE
 081393167575,Joshua Husada,@Xenius2771,27483519,12/12/2090,active,15/04/2026
 81393167575,Joshua Husada,@Xenius2771,159935337,12/12/2090,active,15/04/2026
 81393167575,Joshua Husada,@Xenius2771,263360906,12/12/2090,active,15/04/2026
@@ -91,7 +91,7 @@ user_id,name,username,account_id,expired,is_active,Created
 81212532496,M. Rama Deska Pratama Roza,@mikesplash9,183970251,12/12/2090,active,12/04/2026
 81212532496,M. Rama Deska Pratama Roza,@mikesplash9,183970332,12/12/2090,active,12/04/2026
 81212532496,M. Rama Deska Pratama Roza,@mikesplash9,415541058,12/12/2090,active,12/04/2026
-,Muhammad Abdul Ilah,tradingcompetition,263386821,25/4/2026,active,12/04/2026
+DUMMY007,Muhammad Abdul Ilah,tradingcompetition,263386821,25/4/2026,active,12/04/2026
 85255610639,Musafir,@SafirJie,257375786,12/12/2090,active,12/04/2026
 85178930543,Nastain,@nastain770077,159596995,12/12/2090,active,12/04/2026
 85178930543,Nastain,@nastain770077,183825527,12/12/2090,active,12/04/2026
@@ -107,12 +107,12 @@ user_id,name,username,account_id,expired,is_active,Created
 81294840600,Nizam Rahman Hakim,@Njams88,183981400,31/12/2090,active,21/04/2026
 8161176898,Nugraha Hadi,@NugrohoHadiW,201878957,12/12/2090,active,13/04/2026
 8161176898,Nugraha Hadi,@NugrohoHadiW,257387082,12/12/2090,active,13/04/2026
-,Oky Pramuditya Harjanto,tradingcompetition,183969588,25/4/2026,active,12/04/2026
-,Oky Pramuditya Harjanto,tradingcompetition,257375971,25/4/2026,active,12/04/2026
-,R3YUSENKA CENT,@r3215,257326348,12/12/2090,active,13/04/2026
+DUMMY008,Oky Pramuditya Harjanto,tradingcompetition,183969588,25/4/2026,active,12/04/2026
+DUMMY008,Oky Pramuditya Harjanto,tradingcompetition,257375971,25/4/2026,active,12/04/2026
+DUMMY009,R3YUSENKA CENT,@r3215,257326348,12/12/2090,active,13/04/2026
 81393167575,Rian Permana - IB belum ganti,@riannn7,257382064,12/12/2090,active,13/04/2026
 81393167575,Rian Permana - IB belum ganti,@riannn7,257380333,12/12/2090,active,13/04/2026
-88239939982,Rido Ramadar Pratama - Belum IB,263396773,,,,
+88239939982,Rido Ramadar Pratama - Belum IB,263396773,263396773,DUMMY_EXPIRED,inactive,DUMMY_DATE
 82253030812,Riko Ismanto - IB,RIKO,257378983,12/12/2090,active,12/04/2026
 816855185,Romi,@romiro855,159657391,12/12/2090,active,13/04/2026
 082138612121,Ryan Oscar,@njooryan,183973524,12/12/2090,active,16/04/2026
@@ -122,28 +122,28 @@ user_id,name,username,account_id,expired,is_active,Created
 85799477099,Saka Dien Pradana,sakadp,159595531,12/12/2090,active,12/04/2026
 81393167575,Satria Dwi Bagaskara,@satriadwibagaskara,257380107,12/12/2090,active,13/04/2026
 81393167575,Satria Dwi Bagaskara,@satriadwibagaskara,263390513,12/12/2090,active,13/04/2026
-,Satria Dwi Bagaskara,satriadwib,183557853,12/12/2090,active,2/4/2026
-,Satria Dwi Bagaskara,satriadwib,433348334,12/12/2090,active,7/10/2025
-,Satria Dwi Bagaskara,satriadwib,4536938,12/12/2090,active,8/10/2025
-,Satria Dwi Bagaskara,satriadwib,263382620,12/12/2090,active,12/04/2026
+DUMMY010,Satria Dwi Bagaskara,satriadwib,183557853,12/12/2090,active,2/4/2026
+DUMMY010,Satria Dwi Bagaskara,satriadwib,433348334,12/12/2090,active,7/10/2025
+DUMMY010,Satria Dwi Bagaskara,satriadwib,4536938,12/12/2090,active,8/10/2025
+DUMMY010,Satria Dwi Bagaskara,satriadwib,263382620,12/12/2090,active,12/04/2026
 0882016363720,Seffy,@yseffy,186024505,12/12/2090,active,13/04/2026
 0882016363720,Seffy,@yseffy,183981683,12/12/2090,active,13/04/2026
 082214588802,SH,SH,263377987,12/12/2090,active,13/04/2026
 082134505293,Steven Cahyadi,1 Bulan,183974457,15/5/2026,active,15/04/2026
 082134505293,Steven Cahyadi,1 Bulan,257384124,15/5/2026,active,15/04/2026
 082134505293,Steven Cahyadi,1 Bulan,257386544,15/5/2026,active,15/04/2026
-,Subkhan Hutang 500rb,@subkhan1979,183503926,12/12/2090,active,7/4/2026
-,Subkhan Hutang 500rb,@subkhan1979,257373612,12/12/2090,active,9/4/2026
+DUMMY011,Subkhan Hutang 500rb,@subkhan1979,183503926,12/12/2090,active,7/4/2026
+DUMMY011,Subkhan Hutang 500rb,@subkhan1979,257373612,12/12/2090,active,9/4/2026
 82329665435,Sugroho Banuwindra,@gentamas02,183976364,12/12/2090,active,13/04/2026
 82329665435,Sugroho Banuwindra,@gentamas02,183971665,12/12/2090,active,13/04/2026
 82329665435,Sugroho Banuwindra,@gentamas02,183973435,12/12/2090,active,13/04/2026
 82329665435,Sugroho Banuwindra,@gentamas02,263396076,12/12/2090,active,13/04/2026
-,Tony,satriadwib,257367425,12/12/2090,active,2/4/2026
-,Tony,satriadwib,433412377,12/12/2090,active,6/4/2026
+DUMMY012,Tony,satriadwib,257367425,12/12/2090,active,2/4/2026
+DUMMY012,Tony,satriadwib,433412377,12/12/2090,active,6/4/2026
 81393167575,valencia,@valencia,27029179,12/12/2090,active,16/04/2026
 81393167575,valencia,@valencia,27485668,12/12/2090,active,16/04/2026
 81393167575,valencia,@valencia,27485672,12/12/2090,active,16/04/2026
-,vay,satriadwib,183971953,12/12/2090,active,4/4/2026
+DUMMY013,vay,satriadwib,183971953,12/12/2090,active,4/4/2026
 81311131751,yohanes betananda,@yohanesbetananda,257379841,12/12/2090,active,12/04/2026
 81311131751,Yohanes Betananda,@yohanesbetananda,159975402,12/12/2090,active,8/4/2026
 81311131751,Yohanes Betananda,@yohanesbetananda,257375245,12/12/2090,active,8/4/2026
@@ -162,9 +162,6 @@ user_id,name,username,account_id,expired,is_active,Created
 88239939982,Rido Ramadar Pratama - Belum IB,@templateusernmae,263396773,12/12/2090,active,8/4/2026
 123456789,Tjongsek,@templateusernmae,257392241,12/12/2090,active,22/4/2026
 081320458737,Hari subagio,@Harisbg9909,257302962,12/12/2090,active,8/4/2026
-
-
-
 123456789,Template Nama,@templateusernmae,123123123,12/12/2090,active,8/4/2026
 123456789,Template Nama,@templateusernmae,123123123,12/12/2090,active,8/4/2026
 123456789,Template Nama,@templateusernmae,123123123,12/12/2090,active,8/4/2026
