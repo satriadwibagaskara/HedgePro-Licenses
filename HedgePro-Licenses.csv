@@ -1,43 +1,52 @@
 whatsappNumber,name,username,account_id,expired,is_active,Created
 123123123,@imamassamaqandy,@imamassamaqandy,257380819,12/12/2090,active,13/04/2026
 123123123,@imamassamaqandy,@imamassamaqandy,183986379,12/12/2090,active,13/04/2026
+
 081717700010,Aa Sae,@AaSae10,183813608,12/12/2090,active,13/04/2026
 081717700010,Aa Sae,@AaSae10,433011322,12/12/2090,active,2/4/2026
 081717700010,Aa Sae,@AaSae10,183966442,12/12/2090,active,2/4/2026
+
 DUMMY001,Afrilian Fauzi Ahmad,tradingcompetition,159979057,25/4/2026,active,12/04/2026
+
 DUMMY002,Agung W,satriadwib,183916911,12/12/2090,active,10/3/2026
 DUMMY002,Agung W,satriadwib,245950123,12/12/2090,active,10/3/2026
+
 81290616760,Ainnur,satriadwib,159981652,12/12/2090,active,9/4/2026
+
 81393167575,Aji,Aji,183973139,12/12/2090,active,13/04/2026
 81393167575,Aji,Aji,257382704,12/12/2090,active,13/04/2026
 81393167575,Aji,Aji,263391153,31/12/2090,active,16/04/2026
+
 82326669848,Akhmad Hosan Palakhi,@kangmasakhmad,263387661,12/12/2090,active,12/04/2026
 82326669848,Akhmad Hosan Palakhi,@kangmasakhmad,183969244,12/12/2090,active,12/04/2026
 82326669848,Akhmad Hosan Palakhi,@kangmasakhmad,183969160,12/12/2090,active,12/04/2026
 82326669848,Akhmad Hosan Palakhi,@kangmasakhmad,128672832,12/12/2090,active,12/04/2026
 82326669848,Akhmad Hosan Palakhi,@kangmasakhmad,263389464,12/12/2090,active,12/04/2026
 82326669848,Akhmad Hosan Palakhi,@kangmasakhmad,257381998,12/12/2090,active,12/04/2026
+82326669848,Akhmad Hosan Palakhi,@kangmasakhmad,183988002,12/12/2090,active,27/04/2026
+
 81915558500,Andri Setiawan,@GoldenEra57,630655,12/12/2090,active,12/04/2026
 81393167575,Azkia,Azkia,159981891,12/12/2090,active,13/04/2026
 81393167575,Azkia,Azkia,257382014,12/12/2090,active,13/04/2026
 81393167575,Azkia,Azkia,183986908,12/12/2090,active,13/04/2026
-85700095959,Bagus Member SmartEA,@bagush47,,12/12/2090,active,12/04/2026
-85700095959,Bagus Member SmartEA,@bagush47,,12/12/2090,active,13/04/2026
-85700095959,Bagus Member SmartEA,@bagush47,,12/12/2090,active,13/04/2026
-85700095959,Bagus Member SmartEA,@bagush47,,12/12/2090,active,13/04/2026
+
 085376645413,Bhusman,bhusman,41132497,12/12/2090,active,13/04/2026
 085376645413,Bhusman,bhusman,41213882,12/12/2090,active,13/04/2026
 085376645413,Bhusman,bhusman,41530338,12/12/2090,active,13/04/2026
 085376645413,Bhusman Demo,bhusman,29402104,12/5/2026,active,13/04/2026
+
 85331945950,Darmawan,@darmawan,159978997,12/12/2090,active,13/04/2026
 87728917092,David Hendrawan,@hendrapaul,186021593,12/12/2090,active,12/04/2026
 87728917092,David Hendrawan,@hendrapaul,263387211,12/12/2090,active,12/04/2026
+
 085215912318,Eko Sudrajat,@kosud2025,415274154,12/12/2090,active,15/04/2026
 085215912318,Eko Sudrajat,@kosud2025,463207546,12/12/2090,active,18/04/2026
 085215912318,Eko Sudrajat,@kosud2025,183981612,12/12/2090,active,21/04/2026
 085215912318,Eko Sudrajat,@kosud2025,263395547,12/12/2090,active,21/04/2026
 085215912318,Eko Sudrajat,@kosud2025,257280228,12/12/2090,active,21/04/2026
+
 123123123,Etan (Noname),1 BULAN,183002875,13/5/2026,active,13/04/2026
+
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,263394560,12/12/2090,active,15/04/2026
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,257390061,12/12/2090,active,15/04/2026
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,263394561,31/12/2090,active,16/04/2026
@@ -47,25 +56,31 @@ DUMMY002,Agung W,satriadwib,245950123,12/12/2090,active,10/3/2026
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,257390063,12/12/2090,active,17/04/2026
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,183980317,12/12/2090,active,17/04/2026
 81519431918,Farma Hilal Hamdi,Farmahilalhamdi,263394563,12/12/2090,active,17/04/2026
+
 DUMMY003,Fauzi,@AFZ993 No 3,159979061,25/4/2026,active,13/04/2026
 DUMMY003,Fauzi,@AFZ993 No 3,257379952,25/4/2026,active,13/04/2026
 DUMMY003,Fauzi,@AFZ993 No 3,257396272,25/4/2026,active,13/04/2026
+
 81938369590,Filbert 9 April 2026,satriadwib,257376120,12/12/2090,active,9/4/2026
 81938369590,Filbert 9 April 2026,satriadwib,159889969,12/12/2090,active,13/04/2026
 81938369590,Filbert 9 April 2026,satriadwib,257389421,12/12/2090,active,13/04/2026
 81938369590,Filbert 9 April 2026,satriadwib,257396819,12/12/2090,active,13/04/2026
+
 081347071427,Fredy Palayukan IB,satriadwib,257376722,12/12/2090,active,9/4/2026
 081347071427,Fredy Palayukan IB,satriadwib,263389252,12/12/2090,active,13/4/2026
 081347071427,Fredy Palayukan IB,satriadwib,183978163,12/12/2090,active,18/4/2026
 081347071427,Fredy Palayukan IB,satriadwib,183987086,12/12/2090,active,25/4/2026
+
 087770652265,"Hasim Hanafie ",1 Bulan,21878903,15/5/2026,active,15/04/2026
 087770652265,Hasim Hanafie,1 Bulan,250612779,15/5/2026,active,15/04/2026
+
 DUMMY004,Husny Thamrin,satriadwib,1051045240,12/12/2090,active,9/4/2026
 DUMMY005,Imam,satriadwib,159937228,12/12/2090,active,7/4/2026
 085156346768,Indra Wahyudi,@ndrwhyd,263100916,12/12/2090,active,12/04/2026
 085156346768,Indra Wahyudi,@ndrwhyd,263100913,12/12/2090,active,12/04/2026
 085156346768,Indra Wahyudi,@ndrwhyd,159568158,12/12/2090,active,12/04/2026
 085156346768,Indra Wahyudi,@ndrwhyd,463255212,12/12/2090,active,12/04/2026
+
 087851712906,Jerico,@Jerico_sa,263385369,12/12/2090,active,7/4/2026
 087851712906,Jerico,@Jerico_sa,159975106,12/12/2090,active,8/4/2026
 087851712906,Jerico,@Jerico_sa,183966410,12/12/2090,active,9/4/2026
@@ -76,30 +91,38 @@ DUMMY005,Imam,satriadwib,159937228,12/12/2090,active,7/4/2026
 087851712906,Jerico,@Jerico_sa,183978060,12/12/2090,active,18/4/2026
 087851712906,Jerico,@Jerico_sa,263392920,12/12/2090,active,18/4/2026
 087851712906,Jerico,@Jerico_sa,263392921,12/12/2090,active,18/4/2026
+
 81393167575,"Jonson Situmorang ",tradingcompetition,463303402,1/6/2026,active,16/04/2026
 DUMMY006,"Jonson Situmorang ",tradingcompetition,257381003,25/4/2026,active,12/04/2026
 DUMMY006,"Jonson Situmorang ",tradingcompetition,183977485,25/4/2026,active,DUMMY_DATE
+
 081393167575,Joshua Husada,@Xenius2771,27483519,12/12/2090,active,15/04/2026
 81393167575,Joshua Husada,@Xenius2771,159935337,12/12/2090,active,15/04/2026
 81393167575,Joshua Husada,@Xenius2771,263360906,12/12/2090,active,15/04/2026
+
 82111466999,Lucky,Lucky Member SmartEA 07042026,153048840,12/12/2090,active,12/04/2026
 82111466999,Lucky,Lucky Member SmartEA 07042026,183798335,12/12/2090,active,12/04/2026
 82111466999,Lucky,Lucky Member SmartEA 07042026,183810262,12/12/2090,active,12/04/2026
 82111466999,Lucky,Lucky Member SmartEA 07042026,263292859,12/12/2090,active,12/04/2026
+
 081339501314,LUTFI FARADHI,luffyarad,433384417,12/12/2090,active,16/04/2026
 08174978080,M Bagir,@Mofx188,263384600,12/12/2090,active,8/4/2026
 08174978080,M Bagir Demo,@Mofx188,1513097668,12/12/2090,active,9/4/2026
 08174978080,M Bagir Demo,@Mofx188,433439183,12/12/2090,active,9/4/2026
 08174978080,M Bagir Demo,@Mofx188,463263385,12/12/2090,active,9/4/2026
+
 81212532496,M. Rama Deska Pratama Roza,@mikesplash9,159979003,12/12/2090,active,12/04/2026
 81212532496,M. Rama Deska Pratama Roza,@mikesplash9,183970251,12/12/2090,active,12/04/2026
 81212532496,M. Rama Deska Pratama Roza,@mikesplash9,183970332,12/12/2090,active,12/04/2026
 81212532496,M. Rama Deska Pratama Roza,@mikesplash9,415541058,12/12/2090,active,12/04/2026
+
 DUMMY007,Muhammad Abdul Ilah,tradingcompetition,263386821,25/4/2026,active,12/04/2026
+
 85255610639,Musafir,@SafirJie,257375786,12/12/2090,active,12/04/2026
 85178930543,Nastain,@nastain770077,159596995,12/12/2090,active,12/04/2026
 85178930543,Nastain,@nastain770077,183825527,12/12/2090,active,12/04/2026
 85178930543,Nastain,@nastain770077,183825529,12/12/2090,active,12/04/2026
+
 81294840600,Nizam Rahman Hakim,@Njams88,159985480,31/12/2090,active,21/04/2026
 81294840600,Nizam Rahman Hakim,@Njams88,263394472,31/12/2090,active,21/04/2026
 81294840600,Nizam Rahman Hakim,@Njams88,263394473,31/12/2090,active,21/04/2026
@@ -109,24 +132,27 @@ DUMMY007,Muhammad Abdul Ilah,tradingcompetition,263386821,25/4/2026,active,12/04
 81294840600,Nizam Rahman Hakim,@Njams88,257391153,31/12/2090,active,21/04/2026
 81294840600,Nizam Rahman Hakim,@Njams88,257391154,31/12/2090,active,21/04/2026
 81294840600,Nizam Rahman Hakim,@Njams88,183981400,31/12/2090,active,21/04/2026
+
 8161176898,Nugraha Hadi,@NugrohoHadiW,201878957,12/12/2090,active,13/04/2026
 8161176898,Nugraha Hadi,@NugrohoHadiW,257387082,12/12/2090,active,13/04/2026
-DUMMY008,Oky Pramuditya Harjanto,tradingcompetition,183969588,25/4/2026,active,12/04/2026
-DUMMY008,Oky Pramuditya Harjanto,tradingcompetition,257375971,25/4/2026,active,12/04/2026
+
 DUMMY009,R3YUSENKA CENT,@r3215,257326348,12/12/2090,active,13/04/2026
 DUMMY009,R3YUSENKA CENT,@r3215,159989130,12/12/2090,active,13/04/2026
+
 81393167575,Rian Permana - IB belum ganti,@riannn7,257382064,12/12/2090,active,13/04/2026
 81393167575,Rian Permana - IB belum ganti,@riannn7,257380333,12/12/2090,active,13/04/2026
+
 88239939982,Rido Ramadar Pratama - Belum IB,263396773,263396773,DUMMY_EXPIRED,inactive,DUMMY_DATE
 82253030812,Riko Ismanto - IB,RIKO,257378983,12/12/2090,active,12/04/2026
 816855185,Romi,@romiro855,159657391,12/12/2090,active,13/04/2026
+
 082138612121,Ryan Oscar,@njooryan,183973524,12/12/2090,active,16/04/2026
 082138612121,Ryan Oscar,@njooryan,263391610,12/12/2090,active,16/04/2026
+
 85799477099,Saka Dien Pradana,sakadp,183555074,12/12/2090,active,12/04/2026
 85799477099,Saka Dien Pradana,sakadp,183555085,12/12/2090,active,12/04/2026
 85799477099,Saka Dien Pradana,sakadp,159595531,12/12/2090,active,12/04/2026
-85799477099,Saka Dien Pradana,ProfitSharing,183984597,12/12/2090,active,27/04/2026
-85799477099,Saka Dien Pradana,ProfitSharing,263397757,12/12/2090,active,27/04/2026
+
 81393167575,Satria Dwi Bagaskara,@satriadwibagaskara,257380107,12/12/2090,active,13/04/2026
 81393167575,Satria Dwi Bagaskara,@satriadwibagaskara,263390513,12/12/2090,active,13/04/2026
 81393167575,Satria Dwi Bagaskara,satriadwib,183557853,12/12/2090,active,2/4/2026
@@ -134,47 +160,62 @@ DUMMY009,R3YUSENKA CENT,@r3215,159989130,12/12/2090,active,13/04/2026
 81393167575,Satria Dwi Bagaskara,satriadwib,4536938,12/12/2090,active,8/10/2025
 81393167575,Satria Dwi Bagaskara,satriadwib,263382620,12/12/2090,active,12/04/2026
 81393167575,Satria Dwi Bagaskara,satriadwib,263392391,12/12/2090,active,12/04/2026
+
 0882016363720,Seffy,@yseffy,186024505,12/12/2090,active,13/04/2026
 0882016363720,Seffy,@yseffy,183981683,12/12/2090,active,13/04/2026
 0882016363720,Seffy,@yseffy,263398637,12/12/2090,active,24/04/2026
+
 082214588802,SH,SH,263377987,12/12/2090,active,13/04/2026
+
 082134505293,Steven Cahyadi,1 Bulan,183974457,15/5/2026,active,15/04/2026
 082134505293,Steven Cahyadi,1 Bulan,257384124,15/5/2026,active,15/04/2026
 082134505293,Steven Cahyadi,1 Bulan,257386544,15/5/2026,active,15/04/2026
+
 DUMMY011,Subkhan Hutang 500rb,@subkhan1979,183503926 1,12/12/2090,active,7/4/2026
 DUMMY011,Subkhan Hutang 500rb,@subkhan1979,257373612 1,12/12/2090,active,9/4/2026
+
 82329665435,Sugroho Banuwindra,@gentamas02,183976364,12/12/2090,active,13/04/2026
 82329665435,Sugroho Banuwindra,@gentamas02,183971665,12/12/2090,active,13/04/2026
 82329665435,Sugroho Banuwindra,@gentamas02,183973435,12/12/2090,active,13/04/2026
 82329665435,Sugroho Banuwindra,@gentamas02,263396076,12/12/2090,active,13/04/2026
+
 DUMMY012,Tony,satriadwib,257367425,12/12/2090,active,2/4/2026
 DUMMY012,Tony,satriadwib,433412377,12/12/2090,active,6/4/2026
+
 81393167575,valencia,@valencia,27029179,12/12/2090,active,16/04/2026
 81393167575,valencia,@valencia,27485668,12/12/2090,active,16/04/2026
 81393167575,valencia,@valencia,27485672,12/12/2090,active,16/04/2026
+
 DUMMY013,vay,satriadwib,183971953,12/12/2090,active,4/4/2026
+
 81311131751,yohanes betananda,@yohanesbetananda,257379841,12/12/2090,active,12/04/2026
 81311131751,yohanes betananda,@yohanesbetananda,159989247,12/12/2090,active,24/04/2026
 81311131751,Yohanes Betananda,@yohanesbetananda,159975402,12/12/2090,active,8/4/2026
 81311131751,Yohanes Betananda,@yohanesbetananda,257375245,12/12/2090,active,8/4/2026
 81311131751,Yohanes Betananda,@yohanesbetananda,263380037,12/12/2090,active,8/4/2026
 81311131751,Yohanes Betananda,@yohanesbetananda,263398737,12/12/2090,active,8/4/2026
+
 081284821799,Angga 1 Bulan,1 Bulan,159984224,18/05/2026,active,18/4/2026
 081284821799,Angga 1 Bulan,1 Bulan,263392954,18/05/2026,active,18/4/2026
 081284821799,Angga 1 Bulan,1 Bulan,159984220,18/05/2026,active,18/4/2026
+
 081284821799,Angga Noviansyah,@angganoviansyah,183986978,12/12/2090,active,18/4/2026
 081284821799,Angga Noviansyah,@angganoviansyah,159990272,12/12/2090,active,18/4/2026
 081284821799,Angga Noviansyah,@angganoviansyah,159990273,12/12/2090,active,18/4/2026
 081284821799,Angga Noviansyah,@angganoviansyah,159990274,12/12/2090,active,18/4/2026
 081284821799,Angga Noviansyah,@angganoviansyah,183986979,12/12/2090,active,18/4/2026
+
 085753912710,Muchtar Buchori 1 Bulan,1 Bulan,183661062,20/5/2026,active,20/4/2026
 085753912710,Muchtar Buchori 1 Bulan,1 Bulan,433240970,20/5/2026,active,20/4/2026
 085753912710,Muchtar Buchori 1 Bulan,1 Bulan,159990949,27/5/2026,active,26/4/2026
+
 082224035616,Ryo,@moferz,263394336,12/12/2090,active,20/4/2026
 082224035616,Ryo,@moferz,153179768,12/12/2090,active,20/4/2026
+
 081334524550,Bimantoyo Nedi Purnanto,Bima,257386808,12/12/2090,active,8/4/2026
 081334524550,Bimantoyo Nedi Purnanto,Bima,159991253,12/12/2090,active,8/4/2026
 081381383058,Twesia Oktavira Polinika,1 Bulan,186047088,21/5/2026,active,21/4/2026
+
 081388488404,Agung,@agungw,183981987,12/12/2090,active,8/4/2026
 88239939982,Rido Ramadar Pratama - Belum IB,@templateusernmae,263396773,12/12/2090,active,8/4/2026
 123456789,Tjongsek,@templateusernmae,257392241,12/12/2090,active,22/4/2026
@@ -184,12 +225,15 @@ DUMMY013,vay,satriadwib,183971953,12/12/2090,active,4/4/2026
 123456789,Template Nama,@templateusernmae,159989055,12/12/2090,active,8/4/2026
 123456789,Template Nama,@templateusernmae,1233472737,12/12/2090,active,8/4/2026
 123456789,Template Nama,@templateusernmae,263271840,12/12/2090,active,8/4/2026
+
 081317178357,Hadyan Pramana,@hadyanpramana,16468213,12/12/2090,active,25/04/2026
 85700095959,bagus,@bagush47,257185861,12/12/2090,active,12/04/2026
+
 85700095959,Bagus Member SmartEA,@bagush47,50219136,12/12/2090,active,13/04/2026
 85700095959,Bagus Member SmartEA,@bagush47,272987580,12/12/2090,active,13/04/2026
 85700095959,Bagus Member SmartEA,@bagush47,159680233,12/12/2090,active,13/04/2026
 85700095959,Bagus Member SmartEA,@bagush47,276007442,12/12/2090,active,13/04/2026
+
 123456789,Template Nama,@Alfons2101,257396350,12/12/2090,active,8/4/2026
 123456789,Template Nama,@templateusernmae,159991305,12/12/2090,active,8/4/2026
 
@@ -203,6 +247,8 @@ DUMMY013,vay,satriadwib,183971953,12/12/2090,active,4/4/2026
 
 081523861007,Wong Kian Hin,ProfitSharing,159991883,12/12/2090,active,27/04/2026
 081523861007,Gajah Mada,ProfitSharing,183864460,12/12/2090,active,27/04/2026
+85799477099,Saka Dien Pradana,ProfitSharing,183984597,12/12/2090,active,27/04/2026
+85799477099,Saka Dien Pradana,ProfitSharing,263397757,12/12/2090,active,27/04/2026
 
 085712301525,Irfan Z P,@Irfantryman,183987898,12/12/2090,active,27/4/2026
 08814115644,OKY PRAMUDITYA HARJANTO,@okypramuditya,257353316,12/12/2090,active,27/4/2026
